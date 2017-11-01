@@ -1,0 +1,21 @@
+{
+  "name": "folabelle",
+  "version": "1.0.0",
+  "license": "MIT",
+  "publisher": "Bolaji Olajide",
+  "engines": {
+      "vscode": "^1.0.0"
+  },
+  "categories": [
+      "Themes"
+  ],
+  "contributes": {
+      "themes": [
+          {
+              "label": "folabelle",
+              "uiTheme": "vs-dark",
+              "path": "./themes/folabelle-theme.json"
+          }
+      ]
+  }
+}
