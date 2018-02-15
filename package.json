@@ -1,21 +1,22 @@
 {
-  "name": "folabelle",
-  "version": "1.0.0",
-  "license": "MIT",
-  "publisher": "Bolaji Olajide",
-  "engines": {
-      "vscode": "^1.0.0"
-  },
-  "categories": [
-      "Themes"
-  ],
-  "contributes": {
-      "themes": [
-          {
-              "label": "folabelle",
-              "uiTheme": "vs-dark",
-              "path": "./themes/folabelle-theme.json"
-          }
-      ]
-  }
+    "name": "folabelle",
+    "displayName": "folabelle",
+    "description": "Theme dedicated to two smart ladies",
+    "version": "0.0.1",
+    "publisher": "Proton",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "folabelle",
+                "uiTheme": "vs-dark",
+                "path": "./themes/folabelle-color-theme.json"
+            }
+        ]
+    }
 }
