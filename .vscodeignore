@@ -5,3 +5,4 @@ vsc-extension-quickstart.md
 .DS_Store
 node_modules
 .vsix
+.github
