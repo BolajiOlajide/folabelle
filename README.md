@@ -54,6 +54,7 @@ The dark theme is based on  a cross-breed of Monokai and Palenight material them
 ## Screenshot
 
 ![Theme Screenshot](https://res.cloudinary.com/proton/image/upload/v1538455197/screenshot1_suok7x.png)
+![Theme Screenshot2](https://res.cloudinary.com/proton/image/upload/v1541561317/screenshot2_qzemkq.png)
 
 ## Change log
 
