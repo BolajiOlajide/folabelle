@@ -47,6 +47,10 @@ If you would like to change something, you can either open a PR and see if I'd l
 
 [VSCode Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 
+## Recognition
+
+The dark theme is based on  a cross-breed of Monokai and Palenight material theme while the light theme is based off of `theme-bluloco-light` theme.
+
 ## Screenshot
 
 ![Theme Screenshot](https://res.cloudinary.com/proton/image/upload/v1538455197/screenshot1_suok7x.png)

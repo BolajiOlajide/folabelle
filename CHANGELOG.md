@@ -7,3 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## v0.1.x
 
 - Initial release
+
+## 0.1.5
+
+- Add folayemi's shade of pink to status bar
+
+## 0.2.0
+
+- Add light theme version to folabelle
