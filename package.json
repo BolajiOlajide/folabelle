@@ -2,7 +2,7 @@
     "name": "folabelle",
     "displayName": "folabelle",
     "description": "Theme dedicated to two smart ladies - Folayemi & Annabelle",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "publisher": "cooproton",
     "repository": "https://github.com/BolajiOlajide/folabelle",
     "engines": {
@@ -14,12 +14,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "folabelle",
+                "label": "folabelle (dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/folabelle-color-theme.json"
             },
             {
-                "label": "folabelle-light",
+                "label": "anabelle (light)",
                 "uiTheme": "vs",
                 "path": "./themes/folabelle-light.json"
             }

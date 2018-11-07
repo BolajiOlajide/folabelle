@@ -12,6 +12,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Add folayemi's shade of pink to status bar
 
-## 0.2.0
+## 1.0.0
 
 - Add light theme version to folabelle
